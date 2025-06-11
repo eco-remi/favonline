@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="viewport" content="width=device-width" /><title>https://www.favonline.com/rss.xml</title><link rel="stylesheet" type="text/css" href="resource://content-accessible/viewsource.css" /></head><body id="viewsource" style="tab-size: 4"><span id="line1"><span></span><span class="pi">&lt;?xml version="1.0"?&gt;</span><span>
+</span></span><span id="line2"><span></span><span>&lt;<span class="start-tag">rss</span> <span class="attribute-name">version</span>="<a class="attribute-value">2.0</a>" <span class="attribute-name">xmlns:atom</span>="<a class="attribute-value">http://www.w3.org/2005/Atom</a>"&gt;</span><span>
+</span></span><span id="line3"><span>	</span><span>&lt;<span class="start-tag">channel</span>&gt;</span><span>
+</span></span><span id="line4"><span>		</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Fav Online</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line5"><span>		</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.favonline.com</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line6"><span>		</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>Vos Favoris vous suivent partout !</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line7"><span>		</span><span>&lt;<span class="start-tag">language</span>&gt;</span><span>fr</span><span>&lt;/<span class="end-tag">language</span>&gt;</span><span>
+</span></span><span id="line8"><span>		</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri, 06 Jun 2025 04:17:58 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line9"><span>		</span><span>&lt;<span class="start-tag">lastBuildDate</span>&gt;</span><span>Fri, 06 Jun 2025 02:17:58 GMT</span><span>&lt;/<span class="end-tag">lastBuildDate</span>&gt;</span><span>
+</span></span><span id="line10"><span>		</span><span>&lt;<span class="start-tag">managingEditor</span>&gt;</span><span>dubydul@yahoo.fr</span><span>&lt;/<span class="end-tag">managingEditor</span>&gt;</span><span>
+</span></span><span id="line11"><span>		</span><span>&lt;<span class="start-tag">webMaster</span>&gt;</span><span>admin@favonline.com</span><span>&lt;/<span class="end-tag">webMaster</span>&gt;</span><span>
+</span></span><span id="line12"><span>		</span><span>&lt;<span class="start-tag">ttl</span>&gt;</span><span>5</span><span>&lt;/<span class="end-tag">ttl</span>&gt;</span><span>
+</span></span><span id="line13"><span>		</span><span>&lt;<span class="start-tag">atom:link</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:http://www.favonline.com/flux_rss?feed=RSS">http://www.favonline.com/flux_rss?feed=RSS</a>" <span class="attribute-name">rel</span>="<a class="attribute-value">self</a>" <span class="attribute-name">type</span>="<a class="attribute-value">application/rss+xml</a>" <span>/</span>&gt;</span><span>
+</span></span><span id="line14"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line15"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>https:  sandphoby netlify app</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line16"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://sandphoby.netlify.app</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line17"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line18"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri, 22 Mar 2024 10:53:08 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line19"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_826</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line20"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line21"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line22"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>G<span class="entity"><span>&amp;</span>amp;</span>#128;n<span class="entity"><span>&amp;</span>amp;</span>#128;rateur de labyrinthe</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line23"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://mazegenerator.net/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line24"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line25"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Sat, 13 Jan 2024 22:32:23 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line26"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_825</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line27"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line28"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line29"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>G<span class="entity"><span>&amp;</span>amp;</span>#128;n<span class="entity"><span>&amp;</span>amp;</span>#128;rateur de labyrinthe</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line30"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://mazegenerator.net/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line31"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line32"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri, 12 Jan 2024 13:54:07 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line33"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_824</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line34"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line35"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line36"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>G<span class="entity"><span>&amp;</span>amp;</span>#128;n<span class="entity"><span>&amp;</span>amp;</span>#128;rateur de labyrinthe</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line37"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://mazegenerator.net/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line38"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line39"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri, 12 Jan 2024 00:04:41 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line40"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_823</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line41"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line42"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line43"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>G<span class="entity"><span>&amp;</span>amp;</span>#128;n<span class="entity"><span>&amp;</span>amp;</span>#128;rateur de labyrinthe</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line44"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://mazegenerator.net/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line45"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line46"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 11 Jan 2024 18:24:54 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line47"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_822</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line48"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line49"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line50"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Traditional Japanese Recipes</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line51"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://pickledplum.com/category/japanese/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line52"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line53"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri, 24 Nov 2023 11:24:31 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line54"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_821</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line55"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line56"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line57"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>DOOM-ASCII</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line58"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://github.com/wojciech-graj/doom-ascii</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line59"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line60"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 27 Sep 2023 09:17:21 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line61"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_820</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line62"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line63"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line64"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>https:  userinyerface</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line65"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://userinyerface.com</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line66"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line67"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue, 06 Jun 2023 17:48:17 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line68"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_819</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line69"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line70"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line71"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>fusion pokemon creator</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line72"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://japeal.com/pkm/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line73"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line74"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 05 Jan 2023 14:42:00 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line75"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_818</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line76"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line77"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line78"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>react 95</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line79"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://react95.github.io/React95/?path=/story/alert--simple</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line80"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line81"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue, 03 Jan 2023 09:55:46 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line82"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_817</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line83"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line84"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line85"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>dev roadmaps</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line86"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://roadmap.sh/roadmaps</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line87"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line88"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 22 Dec 2022 14:07:15 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line89"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_816</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line90"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line91"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line92"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>sample of code</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line93"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://devhints.io/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line94"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line95"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 22 Dec 2022 14:06:35 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line96"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_815</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line97"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line98"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line99"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>coding IA</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line100"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://chat.openai.com/chat</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line101"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line102"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri, 09 Dec 2022 10:05:36 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line103"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_814</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line104"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line105"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line106"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>pointer pointer </span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line107"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://pointerpointer.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line108"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line109"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 08 Dec 2022 12:09:10 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line110"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_813</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line111"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line112"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line113"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>site en gif .free</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line114"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://couzandco.free.fr/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line115"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>gif</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line116"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 08 Dec 2022 11:47:57 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line117"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_812</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line118"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line119"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line120"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>IA img generation from text</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line121"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://www.craiyon.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line122"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line123"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 24 Aug 2022 10:34:42 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line124"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_811</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line125"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line126"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line127"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>this-person-does-not-exist</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line128"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://this-person-does-not-exist.com/fr</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line129"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line130"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri, 08 Jul 2022 11:51:05 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line131"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_809</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line132"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line133"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line134"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>IA image generator</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line135"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://www.craiyon.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line136"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line137"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri, 08 Jul 2022 11:49:53 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line138"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_808</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line139"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line140"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line141"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>pinball flutter</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line142"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://pinball.flutter.dev/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line143"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line144"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 18 May 2022 09:16:55 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line145"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_807</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line146"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line147"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line148"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>liste des sites conspirationistes</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line149"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://archive.is/vvpf9#selection-1425.3-1425.24</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line150"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line151"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 14 Apr 2021 23:28:02 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line152"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_806</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line153"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line154"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line155"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>build fusion reactor</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line156"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://fusor.net/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line157"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line158"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue, 13 Oct 2020 14:10:57 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line159"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_805</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line160"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line161"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line162"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>marabout-vaudou-retour-affectif </span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line163"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://www.marabout-vaudou-retour-affectif.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line164"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line165"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue, 29 Sep 2020 13:46:56 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line166"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_804</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line167"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line168"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line169"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>360 cam lac</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line170"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://www.skaping.com/grand-lac/port-de-chatillon-360</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line171"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line172"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 13 Aug 2020 16:55:13 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line173"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_803</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line174"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line175"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line176"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>map des radios</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line177"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://radio.garden/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line178"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line179"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 13 Aug 2020 13:44:49 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line180"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_802</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line181"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line182"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line183"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>GPS coord-finder</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line184"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://www.itilog.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line185"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line186"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 12 Aug 2020 09:03:22 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line187"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_801</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line188"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line189"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line190"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>worldwidetelescope org webclient </span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line191"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.worldwidetelescope.org/webclient/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line192"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line193"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Sat, 21 Mar 2020 21:52:12 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line194"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_800</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line195"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line196"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line197"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>la carte aux rappeurs</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line198"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://lacarteauxrappeurs.fr/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line199"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line200"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 19 Feb 2020 09:11:19 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line201"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_799</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line202"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line203"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line204"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>gitexplorer</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line205"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://gitexplorer.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line206"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line207"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon, 17 Feb 2020 09:37:33 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line208"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_798</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line209"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line210"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line211"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>city-roads view</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line212"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://anvaka.github.io/city-roads/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line213"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>map</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line214"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue, 28 Jan 2020 10:08:03 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line215"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_797</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line216"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line217"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line218"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>days since last facebook scandal</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line219"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://dayssincelastfacebookscandal.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line220"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line221"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue, 23 Apr 2019 10:22:10 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line222"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_796</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line223"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line224"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line225"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>game death generator pannel</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line226"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://deathgenerator.com</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line227"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line228"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon, 01 Apr 2019 13:32:49 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line229"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_795</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line230"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line231"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line232"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>pinetools web</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line233"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://pinetools.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line234"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line235"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon, 11 Mar 2019 11:21:46 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line236"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_794</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line237"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line238"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line239"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>wu tang clan name generator</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line240"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.mess.be/inickgenwuname.php</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line241"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line242"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 06 Mar 2019 12:01:47 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line243"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_793</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line244"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line245"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line246"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>generateur de posts linkedin</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line247"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://www.fier-panda.fr/generator/generateur-post-linkedin/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line248"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line249"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 28 Feb 2019 16:53:47 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line250"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_792</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line251"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line252"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line253"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>3D exoplanets render (nasa)</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line254"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://exoplanets.nasa.gov/eyes-on-exoplanets/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line255"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line256"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 14 Feb 2019 14:21:20 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line257"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_791</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line258"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line259"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line260"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>build ui design from scratch</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line261"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://ishadeed.com/article/building-ui-design-scratch/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line262"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line263"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 14 Feb 2019 11:46:13 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line264"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_790</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line265"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line266"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line267"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>IA predict Paint</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line268"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://seoi.net/penint/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line269"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span>IA</span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line270"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Sun, 03 Feb 2019 13:24:34 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line271"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_789</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line272"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line273"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line274"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Data <span class="entity"><span>&amp;</span>amp;</span> analytics from orbit</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line275"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://spire.com/en</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line276"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line277"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 30 Jan 2019 11:59:24 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line278"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_788</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line279"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line280"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line281"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>XP simulator</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line282"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://geekprank.com/xp-simulator.php</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line283"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line284"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon, 14 Jan 2019 10:52:16 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line285"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_787</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line286"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line287"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line288"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>NES CSS</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line289"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://nostalgic-css.github.io/NES.css/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line290"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line291"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon, 14 Jan 2019 10:50:06 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line292"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_786</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line293"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line294"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line295"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>remove bg from picture</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line296"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://www.remove.bg/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line297"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line298"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue, 18 Dec 2018 16:16:57 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line299"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_785</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line300"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line301"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line302"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>bouches qui chantent</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line303"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.adultswim.com/etcetera/choir/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line304"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line305"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 13 Dec 2018 09:37:06 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line306"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_784</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line307"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line308"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line309"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>biglavendergame </span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line310"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://biglavendergame.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line311"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line312"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon, 12 Nov 2018 09:31:05 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line313"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_783</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line314"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line315"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line316"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>jeu full CSS</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line317"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://codepen.io/jcoulterdesign/pen/NOMeEb</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line318"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line319"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue, 30 Oct 2018 09:45:18 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line320"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_782</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line321"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line322"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line323"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>adidas yung retro site</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line324"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://m.adidas.com/us/yung</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line325"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line326"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 18 Oct 2018 09:15:31 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line327"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_781</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line328"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line329"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line330"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>oeufkicetou (kinder)</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line331"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://www.oeufkicetou.fr</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line332"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line333"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 19 Sep 2018 09:39:09 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line334"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_780</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line335"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line336"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line337"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>desordre.net </span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line338"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://desordre.net/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line339"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line340"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 19 Sep 2018 09:36:54 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line341"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_779</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line342"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line343"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line344"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Simulateur de pluie</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line345"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://pluvior.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line346"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line347"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 02 Aug 2018 16:27:48 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line348"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_778</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line349"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line350"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line351"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Apprenez à developper des jeux sur Ethereum</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line352"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://cryptozombies.io/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line353"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line354"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue, 22 May 2018 11:21:22 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line355"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_777</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line356"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line357"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line358"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>DICTIONNAIRE COLLECTION INSOLITE</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line359"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://collectioninsolite.wifeo.com/dictionnaire-collection-insolite.php</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line360"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line361"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue, 15 May 2018 17:54:15 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line362"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_776</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line363"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line364"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line365"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span> games with Google Maps APIs</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line366"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://developers.google.com/maps/gaming/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line367"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line368"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 11 Apr 2018 09:12:13 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line369"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_775</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line370"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line371"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line372"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>css gradient io</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line373"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://cssgradient.io</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line374"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line375"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue, 27 Mar 2018 12:22:47 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line376"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_774</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line377"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line378"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line379"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>getbadnews</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line380"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://getbadnews.com</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line381"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line382"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 22 Mar 2018 16:44:01 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line383"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_773</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line384"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line385"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line386"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>toucher rectal digital </span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line387"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://toucher.rectal.digital/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line388"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line389"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 21 Mar 2018 17:48:02 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line390"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_772</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line391"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line392"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line393"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>comit mesage random</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line394"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://whatthecommit.com/index.txt</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line395"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line396"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon, 19 Mar 2018 09:16:44 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line397"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_771</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line398"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line399"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line400"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>winamp js</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line401"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://jordaneldredge.com/projects/winamp2-js/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line402"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line403"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 14 Feb 2018 09:28:26 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line404"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_770</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line405"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line406"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line407"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Generateur de couverture Martine</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line408"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.retourdemartine.free.fr/create.php</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line409"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line410"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 08 Feb 2018 11:05:51 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line411"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_769</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line412"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line413"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line414"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>history of icons</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line415"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://historyoficons.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line416"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line417"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue, 09 Jan 2018 10:17:37 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line418"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_767</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line419"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line420"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line421"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Cables internet soumarain</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line422"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://www.submarinecablemap.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line423"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line424"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon, 08 Jan 2018 16:11:33 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line425"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_765</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line426"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line427"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line428"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>30 seconds of code</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line429"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://30secondsofcode.org</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line430"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line431"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 03 Jan 2018 15:13:36 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line432"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_764</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line433"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line434"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line435"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>tao ta jima - Film maker</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line436"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://taotajima.jp/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line437"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line438"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 06 Dec 2017 15:21:58 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line439"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_763</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line440"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line441"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line442"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>learn css for children</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line443"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://geddski.teachable.com/courses/gridcritters/lectures/3889059</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line444"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line445"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue, 28 Nov 2017 10:48:47 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line446"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_762</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line447"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line448"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line449"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>tendril ca </span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line450"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://tendril.ca/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line451"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line452"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Tue, 28 Nov 2017 10:14:48 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line453"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_761</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line454"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line455"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line456"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>elastic man</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line457"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.adultswim.com/etcetera/elastic-man/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line458"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line459"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 23 Nov 2017 16:37:50 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line460"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_760</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line461"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line462"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line463"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>avatar generator</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line464"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://getavataaars.com/?accessoriesType=Sunglasses<span class="entity"><span>&amp;</span>amp;</span>clotheColor=Black<span class="entity"><span>&amp;</span>amp;</span>clotheType=GraphicShirt<span class="entity"><span>&amp;</span>amp;</span>eyeType=Happy<span class="entity"><span>&amp;</span>amp;</span>eyebrowType=DefaultNatural<span class="entity"><span>&amp;</span>amp;</span>facialHairType=BeardMedium<span class="entity"><span>&amp;</span>amp;</span>graphicType=Skull<span class="entity"><span>&amp;</span>amp;</span>hairColor=BrownDark<span class="entity"><span>&amp;</span>amp;</span>mouthType=Smile<span class="entity"><span>&amp;</span>amp;</span>ref=producthunt<span class="entity"><span>&amp;</span>amp;</span>skinColor=Light<span class="entity"><span>&amp;</span>amp;</span>topType=LongHairBun</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line465"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line466"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 22 Nov 2017 10:38:19 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line467"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_759</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line468"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line469"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line470"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Générateur de film</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line471"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://depression.cool/clavier/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line472"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line473"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 08 Nov 2017 13:51:32 +0100</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line474"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_758</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line475"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line476"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line477"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>internet has a cat</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line478"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://purrli.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line479"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line480"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 12 Oct 2017 11:59:42 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line481"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_757</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line482"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line483"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line484"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>humans of late capitalism</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line485"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://humansoflatecapitalism.tumblr.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line486"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line487"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 13 Sep 2017 15:44:09 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line488"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_756</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line489"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line490"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line491"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>nicalis game like</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line492"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.nicalis.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line493"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line494"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 19 Jul 2017 11:44:08 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line495"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_755</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line496"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line497"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line498"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Google search operators</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line499"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://supple.com.au/tools/google-advanced-search-operators/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line500"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line501"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon, 17 Jul 2017 11:21:15 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line502"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_754</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line503"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line504"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line505"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>sample JS effect</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line506"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://animista.net/play/entrances/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line507"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line508"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon, 17 Jul 2017 11:17:35 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line509"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_753</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line510"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line511"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line512"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>https:  apelido-apelido </span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line513"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://apelido-apelido.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line514"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line515"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 28 Jun 2017 08:54:06 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line516"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_752</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line517"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line518"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line519"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Atlas sonore des langues régionales</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line520"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://atlas.limsi.fr/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line521"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line522"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon, 26 Jun 2017 09:14:18 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line523"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_751</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line524"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line525"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line526"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>interland by google</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line527"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://beinternetawesome.withgoogle.com/interland</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line528"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line529"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 07 Jun 2017 10:08:54 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line530"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_750</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line531"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line532"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line533"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>favicon pixel</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line534"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.favicon.cc/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line535"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line536"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Wed, 31 May 2017 15:45:26 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line537"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_749</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line538"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line539"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line540"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>internet history scrolling</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line541"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://internethistory.yahoo.co.jp/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line542"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line543"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Mon, 29 May 2017 09:24:13 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line544"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_748</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line545"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line546"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line547"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Moments of Happiness</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line548"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>https://moments.epic.net/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line549"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line550"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri, 19 May 2017 17:07:55 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line551"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_747</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line552"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line553"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line554"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>narrowdesign</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line555"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://www.narrowdesign.com</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line556"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line557"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri, 12 May 2017 09:31:34 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line558"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_746</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line559"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line560"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line561"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>dev experiments</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line562"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://devx.ddd.it/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line563"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line564"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Thu, 11 May 2017 16:30:55 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line565"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_745</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line566"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line567"><span>		</span><span>&lt;<span class="start-tag">item</span>&gt;</span><span>
+</span></span><span id="line568"><span>			</span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>sound to calm</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line569"><span>			</span><span>&lt;<span class="start-tag">link</span>&gt;</span><span>http://soundtocalm.com/</span><span>&lt;/<span class="end-tag">link</span>&gt;</span><span>
+</span></span><span id="line570"><span>			</span><span>&lt;<span class="start-tag">description</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">description</span>&gt;</span><span>
+</span></span><span id="line571"><span>			</span><span>&lt;<span class="start-tag">pubDate</span>&gt;</span><span>Fri, 05 May 2017 10:35:51 +0200</span><span>&lt;/<span class="end-tag">pubDate</span>&gt;</span><span>
+</span></span><span id="line572"><span>			</span><span>&lt;<span class="start-tag">guid</span>&gt;</span><span>link_744</span><span>&lt;/<span class="end-tag">guid</span>&gt;</span><span>
+</span></span><span id="line573"><span>		</span><span>&lt;/<span class="end-tag">item</span>&gt;</span><span>
+</span></span><span id="line574"><span>	</span><span>&lt;/<span class="end-tag">channel</span>&gt;</span><span>
+</span></span><span id="line575"><span></span><span>&lt;/<span class="end-tag">rss</span>&gt;</span><span>
+</span></span><span id="line576"><span></span></span></body></html>
