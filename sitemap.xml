@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+            https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
   <loc>http://dubydul.free.fr/</loc>
@@ -12,74 +11,8 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://dubydul.free.fr/index.php</loc>
+  <loc>https://favonline.com</loc>
   <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://dubydul.free.fr/index.php?Page=Product</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.60</priority>
-</url>
-<url>
-  <loc>http://dubydul.free.fr/index.php?Page=CV</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://dubydul.free.fr/index.php?Page=Liens</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://dubydul.free.fr/index.php?Page=Contact</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://dubydul.free.fr/index.php?Page=CvPdf</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://dubydul.free.fr/RapportBugs.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.7</priority>
-</url>
-<url>
-  <loc>http://dubydul.free.fr/CV.pdf</loc>
-  <lastmod>2010-06-03T12:51:01+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.9</priority>
-</url>
-<url>
-  <loc>http://dubydul.free.fr/finalwar/</loc>
-  <lastmod>2011-10-03T12:51:01+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.5</priority>
-</url>
-<url>
-  <loc>http://dubydul.free.fr/favonline/</loc>
-  <lastmod>2012-05-22T21:56:01+00:00</lastmod>
-  <changefreq>weekly</changefreq>
   <priority>1</priority>
-</url>
-<url>
-  <loc>http://dubydul.free.fr/fractale.htm</loc>
-  <lastmod>2011-08-31T12:51:01+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>http://dubydul.free.fr/forum/</loc>
-  <lastmod>2011-08-31T12:51:01+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.2</priority>
-</url>
-<url>
-  <loc>http://dubydul.free.fr/Tchat_room/</loc>
-  <lastmod>2011-08-31T12:51:01+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.4</priority>
 </url>
 </urlset>

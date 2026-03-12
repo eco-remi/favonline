@@ -1,14 +1,15 @@
 /* TEAM */
-	UI developer:Rémi Dubrulle
+	UI developer:RÃ©mi Dubrulle
 	Contact: admin [at] favonline.com
 	Twitter: @dubydul
-	From:Chambery, France
+	From: Chambery, France
+	Copyright 2012
 
 /* THANKS */
 
 	logo designer:Sosine
 	Twitter: @Sosine
-	From:Chambery, France
+	From: Chambery, France
 
 /* SITE */
 	Last update:2014/06/02
